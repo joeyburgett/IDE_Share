@@ -2,12 +2,10 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="ApprovedInspectorSpec" type="JavaScript" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="loan_report_data.json" type="PLAIN_TEXT" />
-      <mapping ext="properties" type="PLAIN_TEXT" />
-      <mapping ext="gradle" type="PLAIN_TEXT" />
-      <mapping ext="pkg" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="map" type="PLAIN_TEXT" />
+      <mapping ext="pkg" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
