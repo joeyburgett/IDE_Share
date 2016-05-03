@@ -1,0 +1,31 @@
+<application>
+  <component name="SlackStorage">
+    <option name="settings">
+      <map>
+        <entry key="Brian" value="T02TLKSJA/B155KMJ0M/OPKCCIUUzLcktwzwp2zISGkA" />
+        <entry key="David" value="T02TLKSJA/B155FNQ7J/sKzUugeeuQyBrTlQjdiyw8QD" />
+        <entry key="Jeremy" value="T02TLKSJA/B0LAZLQPR/9ty8UA1F899lWcl5P2g4Pw6B" />
+        <entry key="Kevin" value="T02TLKSJA/B155C3E22/oYDddpcZ0Z0oBTI9eQhffqQb" />
+        <entry key="Tim G" value="T02TLKSJA/B155KUF8D/lNVuU45r4rZrPgDKRCF4QZsd" />
+      </map>
+    </option>
+    <option name="aliases">
+      <map>
+        <entry key="Brian" value="SlackStorm" />
+        <entry key="David" value="SlackStorm" />
+        <entry key="Jeremy" value="joeyburgett" />
+        <entry key="Kevin" value="SlackStorm" />
+        <entry key="Tim G" value="SlackStorm" />
+      </map>
+    </option>
+    <option name="icons">
+      <map>
+        <entry key="Brian" value=":thunder_cloud_and_rain:" />
+        <entry key="David" value=":thunder_cloud_and_rain:" />
+        <entry key="Jeremy" value=":mooning:" />
+        <entry key="Kevin" value=":thunder_cloud_and_rain:" />
+        <entry key="Tim G" value=":thunder_cloud_and_rain:" />
+      </map>
+    </option>
+  </component>
+</application>
