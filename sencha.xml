@@ -1,3 +1,3 @@
 <application>
-  <component name="SenchaSettings" cmdDir="$USER_HOME$/bin/Sencha/Cmd/6.0.0.202" sdkDir="$USER_HOME$/Frameworks/ext-6.0.0" theme="theme-triton" packageType="Code" hideAllowStatisticsPrompt="true" hideAllowStatisticsBalloon="true" captureStatistics="false" autoAddDependencies="true" autoRemoveDependencies="false" />
+  <component name="SenchaSettings" cmdDir="$USER_HOME$/bin/Sencha/Cmd/6.0.0.202" sdkDir="$USER_HOME$/DeleteMe/ext" theme="theme-triton" packageType="Code" hideAllowStatisticsPrompt="true" hideAllowStatisticsBalloon="true" captureStatistics="false" autoAddDependencies="true" autoRemoveDependencies="false" />
 </application>
