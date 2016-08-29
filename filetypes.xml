@@ -2,8 +2,12 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="ApprovedInspectorSpec" type="JavaScript" />
-      <mapping pattern="loan_report_data.json" type="PLAIN_TEXT" />
+      <mapping pattern="ok" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="verifi" type="PLAIN_TEXT" />
+      <mapping pattern="logs" type="PLAIN_TEXT" />
+      <mapping pattern="install" type="PLAIN_TEXT" />
+      <mapping pattern="loan_report_data.json" type="PLAIN_TEXT" />
       <mapping ext="map" type="PLAIN_TEXT" />
       <mapping ext="pkg" type="PLAIN_TEXT" />
     </extensionMap>
