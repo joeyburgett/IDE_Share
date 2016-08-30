@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project Files" />
-    <option name="defaultScopeName" value="Project Files" />
+    <option name="customScope" value="File '.../config.xml - [ionic-sqlite]'" />
+    <option name="defaultScopeName" value="File '.../config.xml - [ionic-sqlite]'" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="SEARCH_SCOPE" value="File '.../config.xml - [ionic-sqlite]'" />
   </component>
 </application>
