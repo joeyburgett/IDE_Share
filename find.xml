@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../www/js/database.js - [verifi-mobile-app]'" />
-    <option name="defaultScopeName" value="File '.../www/js/database.js - [verifi-mobile-app]'" />
-    <option name="SEARCH_SCOPE" value="File '.../www/js/database.js - [verifi-mobile-app]'" />
+    <option name="customScope" value="File '.../app/mocks/scheduled_inspections.json - [builtV2]'" />
+    <option name="defaultScopeName" value="File '.../app/mocks/scheduled_inspections.json - [builtV2]'" />
+    <option name="SEARCH_SCOPE" value="File '.../app/mocks/scheduled_inspections.json - [builtV2]'" />
   </component>
 </application>
