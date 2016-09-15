@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '.../www - [verifi-mobile-app]'" />
-    <option name="defaultScopeName" value="Directory '.../www - [verifi-mobile-app]'" />
-    <option name="SEARCH_SCOPE" value="Directory '.../www - [verifi-mobile-app]'" />
+    <option name="customScope" value="File '.../package.json - [verifi-mobile-app]'" />
+    <option name="defaultScopeName" value="File '.../package.json - [verifi-mobile-app]'" />
+    <option name="SEARCH_SCOPE" value="File '.../package.json - [verifi-mobile-app]'" />
   </component>
 </application>
