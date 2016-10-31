@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="File '.../package.json - [verifi-mobile-app]'" />
     <option name="defaultScopeName" value="File '.../package.json - [verifi-mobile-app]'" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="File '.../package.json - [verifi-mobile-app]'" />
   </component>
 </application>
