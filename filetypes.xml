@@ -9,6 +9,7 @@
       <mapping pattern="install" type="PLAIN_TEXT" />
       <mapping pattern="loan_report_data.json" type="PLAIN_TEXT" />
       <mapping ext="map" type="PLAIN_TEXT" />
+      <mapping ext="enabled" type="PLAIN_TEXT" />
       <mapping ext="pkg" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
