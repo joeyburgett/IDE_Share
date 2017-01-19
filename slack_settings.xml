@@ -7,6 +7,8 @@
         <entry key="Jeremy" value="T02TLKSJA/B0LAZLQPR/9ty8UA1F899lWcl5P2g4Pw6B" />
         <entry key="Kevin" value="T02TLKSJA/B155C3E22/oYDddpcZ0Z0oBTI9eQhffqQb" />
         <entry key="Pate" value="T02TLKSJA/B19V1TF6D/oVBRp4g2xf9IQcF9y7Cz3kc8" />
+        <entry key="Ted" value="https://hooks.slack.com/services/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" />
+        <entry key="TedX" value="https://hooks.slack.com/services/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" />
         <entry key="Tim G" value="T02TLKSJA/B27G4B3QF/jlUPj7tqbVMBsaCd8Cx1gKVD" />
         <entry key="Tyler" value="T02TLKSJA/B18PSGSR3/RoJ4MgFWsRCNyGyC26SH6DHl" />
       </map>
@@ -18,6 +20,8 @@
         <entry key="Jeremy" value="joeyburgett" />
         <entry key="Kevin" value="SlackStorm" />
         <entry key="Pate" value="SlackStorm" />
+        <entry key="Ted" value="SlackStorm" />
+        <entry key="TedX" value="SlackStorm" />
         <entry key="Tim G" value="SlackStorm" />
         <entry key="Tyler" value="SlackStorm" />
       </map>
@@ -29,8 +33,16 @@
         <entry key="Jeremy" value=":mooning:" />
         <entry key="Kevin" value=":thunder_cloud_and_rain:" />
         <entry key="Pate" value=":thunder_cloud_and_rain:" />
+        <entry key="Ted" value=":thunder_cloud_and_rain:" />
+        <entry key="TedX" value=":thunder_cloud_and_rain:" />
         <entry key="Tim G" value=":thunder_cloud_and_rain:" />
         <entry key="Tyler" value=":thunder_cloud_and_rain:" />
+      </map>
+    </option>
+    <option name="channels">
+      <map>
+        <entry key="Ted" value="" />
+        <entry key="TedX" value="" />
       </map>
     </option>
   </component>
